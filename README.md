@@ -47,7 +47,7 @@ This is a **Python 3** project. You will need the following Python libraries:
 
 3. **Run the sky map:**
    ```bash
-   python sky_map.py
+   python live_messier_sky.py
    ```
 
 ---
