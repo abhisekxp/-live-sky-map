@@ -98,7 +98,7 @@ sudo apt install python3-tk
 ## ❓ FAQ
 
 ### Why is the Moon sometimes grey and sometimes bright?
-The brightness of the Moon changes based on its **phase angle**, calculated from its elongation relative to the Sun. Full Moon appears brightest; New Moon is invisible.
+The brightness of the Moon changes based on its **phase**. Full Moon appears brightest; New Moon is invisible.
 
 ### What are the small white dots?
 They represent planets currently above the horizon.
