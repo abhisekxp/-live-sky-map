@@ -36,8 +36,8 @@ This is a **Python 3** project. You will need the following Python libraries:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/live-messier-sky-map.git
-   cd live-messier-sky-map
+   git clone https://github.com/abhisekxp/-live-sky-map.git
+   cd -live-sky-map
    ```
 
 2. **Install dependencies:**
