@@ -61,7 +61,7 @@ This is a **Python 3** project. You will need the following Python libraries:
    sudo apt update
    sudo apt install python3-pip
    pip3 install skyfield pytz
-   python3 sky_map.py
+   python3 live_messier_sky.py
    ```
 4. Use **touch input or mouse** to operate the “Now” button and close control.
 
