@@ -20,12 +20,6 @@ Ideal for **Raspberry Pi setups**, astronomy enthusiasts, or as a live sky compa
 
 ---
 
-## 💡 Screenshot
-
-> *(Optional: Upload a screenshot in your GitHub repo and link here)*
-
----
-
 ## 🧰 Prerequisites
 
 This is a **Python 3** project. You will need the following Python libraries:
