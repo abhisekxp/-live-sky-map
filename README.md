@@ -1,6 +1,6 @@
-# 🌌 Live Messier Sky Map
+# 🌌 Live Sky Map
 
-A fullscreen real-time **Messier sky map** built with Python, Tkinter, and [Skyfield](https://rhodesmill.org/skyfield/). This tool lets you visualize the current sky from your location — including the **Sun, Moon (with phase), planets, and over 30 deep-sky objects** like nebulae and galaxies.
+A fullscreen real-time **Sky map** built with Python, Tkinter, and [Skyfield](https://rhodesmill.org/skyfield/). This tool lets you visualize the current sky from your location — including the **Sun, Moon (with phase), planets, and over 30 deep-sky objects** like nebulae and galaxies.
 
 Ideal for **Raspberry Pi setups**, astronomy enthusiasts, or as a live sky companion during telescope sessions.
 
